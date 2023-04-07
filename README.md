@@ -1,8 +1,11 @@
 # 💫 About Me:
-<div style = "display:flex;"> <p style = "align:left;"> Hi there 👋 I'm Vraj limmbachiya.<br>Currently studying Computer Science.<br>At Indian Institute of Information Technology, Surat.<br>🔭 I’m currently working on the MERN Stack movie streaming web app.<br>🌱 I’m currently learning MERN Stack development and Machine-Learning</p>
- <img src="hacker.png" width="250" style = "align:right;" title="hover text">
-</div>
+<img src="hacker.png" align = "right" width="250" style = "display:flex;" title="hover text">
+	<br>
+   		Hi there 👋 I'm Vraj limmbachiya.<br>Currently studying Computer Science.<br>At Indian Institute of Information Technology, Surat.<br>🔭 I’m currently working        	on the MERN Stack movie streaming web app.<br>🌱 I’m currently learning MERN Stack development and Machine-Learning.
+  
 
+<br>
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vraj.limbachiya.75/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/l_vraj_109/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vraj-limbachiya-053a71207/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Vraj-Limbachiya-3) 
