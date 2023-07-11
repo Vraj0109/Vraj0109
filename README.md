@@ -1,7 +1,6 @@
 # 💫 About Me:
 <p>
 <img src="hacker.png"  style="float: right;width: 250px" title="hover text">
-	<br>
 Hi there 👋 I'm Vraj limmbachiya.<br>Currently studying Computer Science.<br>At Indian Institute of Information Technology, Surat.<br>🔭 I’m currently working on the MERN Stack movie streaming web app.<br>🌱 I’m currently learning MERN Stack development and Machine-Learning.
  </p> 
 
