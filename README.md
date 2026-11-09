@@ -22,7 +22,7 @@
 - 💼 **Software Development Engineer** at **Amazon**, architecting high-scale distributed serverless pipelines for Whole Foods Market inventory.
 - 🎓 B.Tech in **Computer Science & Engineering** from **IIIT Surat** (2020 -- 2024).
 - 🏆 **Competitive Programmer**:
-  - **LeetCode Guardian** (Max Rating: **2205**, Top 1% globally, **750+** solved)
+  - **LeetCode Guardian** (Max Rating: **2205**, Top 1% globally, **850+** solved)
   - **Codeforces Expert** (Max Rating: **1645**, Global Rank 385 in Round 889)
   - **CodeChef 5-Star** (Max Rating: **2000**, Global Ranks 54 & 55 in Starters 107 & 109)
   - Global Rank **1013** of 8000+ in Google Kickstart Farewell Round A; **1000+** DSA problems solved across platforms.
@@ -60,10 +60,14 @@
 ### 📊 GitHub & Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vraj0109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vraj0109&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vraj0109&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Vraj0109&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vraj0109&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=Vraj0109&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <a href="https://leetcode.com/Vraj109/">
+    <img src="https://leetcard.jacoblin.cool/Vraj109?theme=tokyonight&font=source_code_pro" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ---
